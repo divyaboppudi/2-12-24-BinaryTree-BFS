@@ -11,8 +11,8 @@ struct Node {
     struct Node* left, * right;
 
 };
-
-
+   
+    
 
 Node* newNode(int data) {
 

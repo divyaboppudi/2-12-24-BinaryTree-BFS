@@ -6,7 +6,7 @@ struct Node {
     int data;
     struct Node* left, * right;
 };
-
+    
 Node* newNode(int data) {
     Node* temp = new Node;
     temp->data = data;

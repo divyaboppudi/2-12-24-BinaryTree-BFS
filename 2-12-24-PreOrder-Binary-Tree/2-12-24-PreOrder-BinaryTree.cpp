@@ -10,7 +10,7 @@ struct Node {
 
     struct Node* left, * right;
 
-};
+};     
 
 
 
