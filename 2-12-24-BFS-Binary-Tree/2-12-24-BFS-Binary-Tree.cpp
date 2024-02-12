@@ -13,7 +13,7 @@ Node* newNode(int data) {
     temp->left = temp->right = NULL;
     return temp;
 }
-
+                
 int main() {
     Node* root = newNode(1);
     root->left = newNode(2);
